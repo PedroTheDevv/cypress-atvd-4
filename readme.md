@@ -1,0 +1,2 @@
+test1-pc -> Criar duas novas transações e excluir a segunda.(Teste feito com resolução de tela 1000x666)
+test1-mobile -> Criar duas novas transações e excluir a segunda.(Teste feito com resolução de tela 411x823)

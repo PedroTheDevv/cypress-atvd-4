@@ -1,0 +1,17 @@
+{
+  "name": "cyprees",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:run:mobile": "npx cypress run viewportWidth=411, viewportHeight=823",
+    "cypress:run": "npx cypress run"
+  },
+  
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  }
+}
